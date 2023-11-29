@@ -20,6 +20,7 @@ Here's a step-by-step walkthrough of how the code works and how to use it:
 15. button_conversation: This is the button to submit the user's question and trigger the conversation with Oktanaut.
 16. interactive_conversation function binding: This line binds the add_prompts_conversation function to the button_conversation button, making it interactive and responsive to user input.
 17. dashboard layout: This section assembles the user interface, including the input field, the conversation button, and the chatbot's responses.
+
 Now, here's how to use the code:
 1. Run the Python script in your development environment.
 2. After running the script, a web interface will be displayed, including an input field and a "Chat with Oktanaut!" button.
