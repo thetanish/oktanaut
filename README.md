@@ -21,14 +21,14 @@ Here's a step-by-step walkthrough of how the code works and how to use it:
 16. interactive_conversation function binding: This line binds the add_prompts_conversation function to the button_conversation button, making it interactive and responsive to user input.
 17. dashboard layout: This section assembles the user interface, including the input field, the conversation button, and the chatbot's responses.
 
-    Now, here's how to use the code:
-1.     Run the Python script in your development environment.
-2.     After running the script, a web interface will be displayed, including an input field and a "Chat with Oktanaut!" button.
-3.     Enter your questions or prompts in the input field. For example, you can ask about Okta or OAuth developer documentation.
-4.     Click the "Chat with Oktanaut!" button to submit your question.
-5.     Oktanaut will respond to your question with a chatbot-generated answer.
-6.     You can continue the conversation by entering additional questions or prompts and clicking the button.
-7.     To end the session, you can say "thank you," as mentioned in the introductory message.
-8.     The chatbot will answer questions and converse based on your prompts. It uses the GPT-3.5 Turbo model to generate responses.
+Now, here's how to use the code:
+1. Run the Python script in your development environment.
+2. After running the script, a web interface will be displayed, including an input field and a "Chat with Oktanaut!" button.
+3. Enter your questions or prompts in the input field. For example, you can ask about Okta or OAuth developer documentation.
+4. Click the "Chat with Oktanaut!" button to submit your question.
+5. Oktanaut will respond to your question with a chatbot-generated answer.
+6. You can continue the conversation by entering additional questions or prompts and clicking the button.
+7. To end the session, you can say "thank you," as mentioned in the introductory message.
+8. The chatbot will answer questions and converse based on your prompts. It uses the GPT-3.5 Turbo model to generate responses.
     Note: The conversation and responses will appear on the web interface in real-time.
     The web interface allows you to have interactive conversations with Oktanaut and receive answers to your questions about Okta and OAuth         developer documentation. Feel free to try it out and have a conversation with Oktanaut!
