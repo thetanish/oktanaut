@@ -31,6 +31,7 @@ Now, here's how to use the code:
 6. You can continue the conversation by entering additional questions or prompts and clicking the button.
 7. To end the session, you can say "thank you," as mentioned in the introductory message.
 8. The chatbot will answer questions and converse based on your prompts. It uses the GPT-3.5 Turbo model to generate responses.
+
 Note: The conversation and responses will appear on the web interface in real-time.
 The web interface allows you to have interactive conversations with Oktanaut and receive answers to your questions about Okta and OAuth         developer documentation. Feel free to try it out and have a conversation with Oktanaut!![oktanaut (1)]
 
