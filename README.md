@@ -1,4 +1,4 @@
-                                ![image](https://github.com/tanishkumar02/oktanaut/assets/144177229/5dac993d-8344-47d3-8611-15ca7a06e9e6)
+   ![image](https://github.com/tanishkumar02/oktanaut/assets/144177229/5dac993d-8344-47d3-8611-15ca7a06e9e6)
 
 In today's fast-paced world of technology, developer support is essential to ensure a seamless experience for users navigating intricate platforms and APIs. As a Developer Support Intern at Okta, I embarked on a challenging yet rewarding endeavor to create a solution that would streamline accessing and comprehending the Okta developer documentation. The result of my efforts is :sparkles:Oktanaut:sparkles:, a versatile chatbot built in Python, designed to assist users in harnessing the power of Okta's developer documentation, available at developer.okta.com.
 The chatbot is built using the GPT-3.5 Turbo model from OpenAI and displayed in a web interface created with the Python panel library.
