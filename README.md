@@ -36,5 +36,4 @@ Now, here's how to use the code:
 8. The chatbot will answer questions and converse based on your prompts. It uses the GPT-3.5 Turbo model to generate responses.
 
 Note: The conversation and responses will appear on the web interface in real-time.
-The web interface allows you to have interactive conversations with Oktanaut and receive answers to your questions about Okta and OAuth         developer documentation. Feel free to try it out and have a conversation with Oktanaut!![oktanaut (1)]
-
+The web interface allows you to have interactive conversations with Oktanaut and receive answers to your questions about Okta and OAuth         developer documentation. Feel free to try it out and have a conversation with Oktanaut!
